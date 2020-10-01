@@ -1,4 +1,4 @@
-package com.shwetashrinivas;
+package com.shwetashrinivas.oops;
 
 public class Motherboard {
     private String model;

@@ -1,4 +1,4 @@
-package com.shwetashrinivas;
+package com.shwetashrinivas.oops;
 
 public class Dimensions {
     private int width;
